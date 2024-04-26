@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1",
     "consumer": "ts-node ./service/consumer.service.ts",
     "producer": "ts-node ./service/producer.service.ts"
