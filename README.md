@@ -22,6 +22,7 @@
 
 <h2>Installation</h2>
 <p>1. Clone this repository to your local machine</p>
+<p>2. Install dependencies  </p>
 <pre><code>npm install
 </code></pre>
 <h2>Usage</h2>
